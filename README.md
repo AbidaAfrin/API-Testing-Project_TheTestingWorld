@@ -42,5 +42,5 @@ The documentation can be found at
 
    
 ## Newman Report Summary:
-![report](https://github.com/AbidaAfrin/APITesting/assets/126371236/3370ca66-cdbd-45ab-9eae-366b21882b8d)
-![report1](https://github.com/AbidaAfrin/APITesting/assets/126371236/08c7d9a7-5d07-445d-8e2f-cfd008cb3142)
+![report2](https://github.com/AbidaAfrin/API-Testing-Project_TheTestingWorld/assets/126371236/7262cf8a-606f-4c2c-a700-aefc8d00027c)
+![report3](https://github.com/AbidaAfrin/API-Testing-Project_TheTestingWorld/assets/126371236/90d725f1-3974-4ffa-8855-ee180c69a2aa)
