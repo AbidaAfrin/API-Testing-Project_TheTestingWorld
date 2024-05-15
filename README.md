@@ -36,53 +36,10 @@ Newman Install Command:
 ```
 
 ## API Documentation
-The documentation can be found at https://restful-booker.herokuapp.com/apidoc/index.html
+The documentation can be found at 
+
 ## Test case list:
-1. Create Student
-🔷 Create Data Sets Using the Dynamic Random Variables.
 
-Verify Created Student Details
-🔷 In the test case you need to validate the following field values:
-
-i. ID
-
-ii. First Name
-
-iii. Middle Name
-
-iv. Last Name
-
-v. Date of Birth
-
-Get all students information
-🔷 Fetch all the details of the students from the server. 🔷 Create a test case to check the length of the response.
-
-Create Technical skills Create Student Address
-🔷 In the test case you need to validate the following field values:
-
-Only Message
-
-Create a Student Address
-🔷 In the test case you need to validate the following field values:
-
-Status and Message field values
-
-Get the Student's Full Details
-🔷 In the test case you need to validate the following field values:
-
-Language
-
-Year Of Experience
-
-House Number
-
-City
-
-Country
-
-Current Address
-
-Mobile
    
 ## Newman Report Summary:
 ![report](https://github.com/AbidaAfrin/APITesting/assets/126371236/3370ca66-cdbd-45ab-9eae-366b21882b8d)
