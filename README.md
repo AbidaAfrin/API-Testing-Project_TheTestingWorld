@@ -7,11 +7,11 @@
 - Run Command:
 
 ```bash
-  newman run Booking.postman_collection.json -e Booking.postman_environment.json
+  newman run Student_Details.postman_collection.json -e Student_Details.postman_environment.json
 ```
 - Run Command for Report:
 ```bash
-  newman run  Booking.postman_collection.json -e Booking.postman_environment.json -r cli,htmlextra
+  newman run  Student_Details.postman_environment.json -e Student_Details.postman_environment.json -r cli,htmlextra
 ```
 ## Tools
 - Postman
